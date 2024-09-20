@@ -17,7 +17,7 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) application bui
 
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: (e.g., MongoDB, MySQL) or use a placeholder until integrated
+- **Database**: MongoDB or use a placeholder until integrated
 - **Version Control**: Git & GitHub
 
 ---
@@ -37,7 +37,7 @@ Make sure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/harshvardhan119/CRUDoperation.git
-   cd your-repo-name
+   cd CRUDoperation
    ```
 
 2. **Backend Setup**:
